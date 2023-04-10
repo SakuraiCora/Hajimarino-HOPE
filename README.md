@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hajimarino-HOPE
 - 👀 I’m interested in Galgame, CTF, Coding
-- 🌱 I’m currently learning Python, C#, C, Java
+- 🌱 I’m currently learning Python, C#, Rust, Java
 - 📫 How to reach me sakuraicora@gmail.com
 
 <!---
